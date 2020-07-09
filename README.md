@@ -1,8 +1,6 @@
 # Emmanuel Kim #icncsx
 
-👋 Hello, I'm Emmanuel (he/him) — a software engineer @bloomventures. My current work focuses on building out the front-end for  a digital legal marketplace. I previously worked @thomsonreuters to design beautiful, informative graphics on the web. 
-
-I am an American expat living in Toronto, ON, which is where I met my beautiful life-long partner. Both of us are huge nerds 🤓.
+👋 Hello, I'm Emmanuel (he/him) — a software engineer [@bloomventures](https://www.bloomventures.io/). My current work focuses on building out the front-end for  a digital legal marketplace. I previously worked [@reuters](https://www.reuters.com/) and [@warwickenergy](https://warwickinvestmentgroup.com/) as a data-viz engineer and data scientist respectively.
 
 ## My values
 📖 Constant learning<br>
@@ -18,7 +16,7 @@ I do way more than what is required. Putting forth maximal effort to fulfill my 
 
 ## Get in touch
 
-For reference all of my socials are @icncsx.
+I am currently seeking full-time SWE opportunities. Please reach out if you are hiring. For reference, all of my socials are @icncsx.
 
 - [Personal site](https://icncsx.com/)
 - [Linkedin](https://www.linkedin.com/in/icncsx/)
