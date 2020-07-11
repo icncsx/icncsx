@@ -1,6 +1,6 @@
-# Emmanuel Kim #icncsx
+# DH Kim
 
-👋 Hello, I'm Emmanuel (he/him) — a software engineer [@bloomventures](https://www.bloomventures.io/). My current work focuses on building out the front-end for  a digital legal marketplace. I previously worked [@reuters](https://www.reuters.com/) and [@warwickenergy](https://warwickinvestmentgroup.com/) as a data-viz engineer and data scientist respectively.
+👋 Hello, I'm DH (he/him) — a software engineer [@bloomventures](https://www.bloomventures.io/). My current work focuses on building out the front-end for  a digital legal marketplace. I previously worked [@reuters](https://www.reuters.com/) and [@warwickenergy](https://warwickinvestmentgroup.com/) as a data-viz engineer and data scientist respectively.
 
 ## My values
 📖 Constant learning<br>
