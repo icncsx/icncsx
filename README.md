@@ -1,6 +1,6 @@
 # DH Kim
 
-👋 Hello, I'm DH (he/him) — a software engineer [@bloomventures](https://www.bloomventures.io/). I previously worked [@reuters](https://www.reuters.com/) and [@warwickenergy](https://warwickinvestmentgroup.com/) as a data-viz engineer and data scientist respectively.
+👋 Hello, I'm DH (he/him), and I am an American software engineer and sole proprietor of a digital consultancy. My clients range from Fortune 500 to mom-and-pop businesses. I previously worked [@reuters](https://www.reuters.com/) and [@warwickenergy](https://warwickinvestmentgroup.com/) as a data-viz engineer and data scientist respectively.
 
 ## My values
 📖 Constant learning<br>
@@ -16,7 +16,7 @@ I do way more than what is required. Putting forth maximal effort to fulfill my 
 
 ## Get in touch
 
-I am currently seeking full-time SWE opportunities. Please reach out if you are hiring. For reference, all of my socials are @icncsx.
+I've been freelancing for a few years, and I am itching to join a team full-time. Please reach out if you are hiring for experienced SDE Level I or SDE Level II positions. For reference, all of my socials are @icncsx.
 
 - [Personal site](https://icncsx.com/)
 - [Linkedin](https://www.linkedin.com/in/icncsx/)
