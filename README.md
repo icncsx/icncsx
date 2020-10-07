@@ -16,7 +16,7 @@ I do way more than what is required. Putting forth maximal effort to fulfill my 
 
 ## Get in touch
 
-I've been freelancing for a few years, and I am itching to join a team full-time. Please reach out if you are hiring for experienced SDE Level I or SDE Level II positions. For reference, all of my socials are @icncsx.
+I've been freelancing for a few years, and I am itching to join a team full-time. Please reach out if you are hiring for SDE Level II positions. For reference, all of my socials are @icncsx.
 
 - [Personal site](https://icncsx.com/)
 - [Linkedin](https://www.linkedin.com/in/icncsx/)
